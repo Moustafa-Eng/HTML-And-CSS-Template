@@ -19,7 +19,6 @@ body{
 }
 .container{
     padding-right: 15px;
-    padding-left: 15px;
     margin-right: auto;
     margin-left: auto;
 }
@@ -319,12 +318,12 @@ font-weight: 300;
     text-align: center;
     letter-spacing: -3px;
     color: #ebeced;
-    font-size: 100px;
+    font-size: 60px;
     margin: 0;
 }
 .special-heading +p{
     text-align: center;
-    margin-top: -30px;
+    margin-top: -20px;
     color: #797979;
 }
 
